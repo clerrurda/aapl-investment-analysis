@@ -1,0 +1,11 @@
+AAPL Stock Analysis Report
+==============================
+Stock Price: $226.84
+52-Week High: $237.49
+52-Week Low: $164.08
+Market Cap: $3.482T
+Revenue (TTM): $394,100,000,000
+Total Assets: $331,612,000,000
+Top Institutional Holder: Vanguard Group Inc (1,298,650,762 shares)
+Latest Recommendation: Outperform (Wedbush) on 2024-10-03
+Recent News Count: 10
